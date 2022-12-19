@@ -1,0 +1,23 @@
+{
+  "name": "yoox_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nade server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devangbramhakshatriya/Yoox_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devangbramhakshatriya/Yoox_Backend/issues"
+  },
+  "homepage": "https://github.com/Devangbramhakshatriya/Yoox_Backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
